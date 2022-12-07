@@ -23,6 +23,8 @@ Contributions are what make the open source community such an amazing place to b
 
 ## **Contact**
 
+- Godra Ádám - [LinkedIn Profile](https://www.linkedin.com/in/godraadam/)
 - Benedek Balázs - [LinkedIn Profile](https://www.linkedin.com/in/benedek-balazs/)
+- E-mail: godra.adam@gmail.com
 - E-mail: benedekbalazs1999@gmail.com
-- Project Link: [GitHub - DotSlash](https://github.com/blasio99/DotSlash)
+- Project Link: [GitHub - DotSlash](https://github.com/dotslash-ro/dotslash-ro.github.io)
